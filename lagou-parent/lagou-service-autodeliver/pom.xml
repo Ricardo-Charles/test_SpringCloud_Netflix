@@ -11,5 +11,15 @@
 
     <artifactId>lagou-service-autodeliver</artifactId>
 
+    <dependencies>
+
+        <dependency>
+            <groupId>com.lagou.edu</groupId>
+            <artifactId>lagou-service-common</artifactId> <!--依赖公共模块common-->
+            <version>1.0-SNAPSHOT</version>
+        </dependency>
+
+    </dependencies>
+
 
 </project>
